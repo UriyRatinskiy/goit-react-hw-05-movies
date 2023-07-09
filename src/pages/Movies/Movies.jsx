@@ -57,7 +57,7 @@ const Movies = ({ isLoading }) => {
           onChange={onInputChange}
         />
         <button className={css.searchButton} type="submit">
-          <BiSearchAlt size={20} color={'#ffffff'} />
+          <BiSearchAlt size={20} color={'#808080'} />
         </button>
       </form>
 
